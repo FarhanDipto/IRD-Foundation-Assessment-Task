@@ -1,0 +1,30 @@
+Are you currently engaged in any job or academic studies?
+Ans: Yes.
+
+If Job: Where are you currently employed? What is your position? What are your responsibilities there?
+Ans: I am employed in AISIP Lab, AUST. I am currently leading 3 research teams and also working on implementing ML/DL frameworks and functionalities in various real life projects.
+
+What is the position and salary mentioned in our job post?
+Ans: Python Dev Internship, salary is between 10k to 12k.
+
+
+Which area of Dhaka do you currently reside in?
+Ans: Uttara
+
+Will commuting to our office (9 AM–6 PM) be manageable for you?
+Ans: Yes
+
+When can you join if selected?
+Ans: Within 2 weeks In Sha Allah.
+
+Are you a practicing Muslim? Do you offer the five Salah (prayers) regularly?
+Ans: Alhamdulillah I do.
+
+Mention some of your Favorite Islamic scholars?
+Ans:Taqi Usmani, Tariq Zamil, Zakir naiq for his debating skill, Yusuf al-Qaradawi.
+
+What do you do in your leisure time?
+Ans: I research about newest updates in AI world.
+
+Why did you choose the IRD Foundation as your workplace?
+Ans: Being able to align my professional work with my deen is a very nice opportunity in my opinion.
