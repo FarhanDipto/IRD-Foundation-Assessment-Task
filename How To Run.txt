@@ -1,0 +1,7 @@
+1. Open terminal in this directory.
+
+2. Run: pip install python-docx openpyxl to download the required lib.
+
+3. Run: python Script.py OCR.docx OCR_parsed.xlsx
+
+4. Check the outputs!
